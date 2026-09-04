@@ -11,3 +11,7 @@ body {
     background-color: lightblue;
     text-align: center;
 }
+
+img {
+    width: 300px;
+}
